@@ -72,6 +72,7 @@ int main() {
 	int pos2 = 3;
 
     int ans = solution(dist, pos1, pos2);
+    printf("Hello git");
    // cout << ans << " ";
     return 0;
 }
